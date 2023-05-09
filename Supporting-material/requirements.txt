@@ -1,4 +1,11 @@
+pytest
 pylint
+jupyter
+pandas
+nbval
+click
+flask
+requests
 wikipedia
 python-json-logger
 boto3

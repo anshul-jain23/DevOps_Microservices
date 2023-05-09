@@ -1,6 +1,7 @@
+setup:
+	python -m venv ~/.myrepo
 install:
-	pip install --upgrade pip &&\
-		pip install -r requirements.txt
+	pip install --upgrade pip && pip install -r requirements.txt
 
 test:
 	#editing makefile

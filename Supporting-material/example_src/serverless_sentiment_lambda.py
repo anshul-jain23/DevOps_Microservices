@@ -5,7 +5,6 @@ import botocore
 #import pandas as pd
 import pandas as pd
 import wikipedia
-import boto3
 from io import StringIO
 
 
